@@ -2,7 +2,7 @@
 
 ![mode:on demand only](https://img.shields.io/badge/mode-on%20demand%20only-blue.svg)
 
-| ![image](https://user-images.githubusercontent.com/306319/45882510-60a7bc80-bd7c-11e8-8425-f0adf5a6fbd9.png) |
+| ![image](./images/overlay-window.png) |
 |---|
 |*Window Security Audit Event Example*|
 
