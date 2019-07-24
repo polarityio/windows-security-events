@@ -8,7 +8,7 @@
 
 The Polarity Windows Security Audit Events integrations looks up Window Audit Event Ids.  This is an On-Demand only integration.
 
-This integration uses Security Audit Event information provided by Microsoft here: https://www.microsoft.com/en-us/download/details.aspx?id=50034
+This integration uses Security Audit Event information provided by Microsoft and can be found at the following link: https://www.microsoft.com/en-us/download/details.aspx?id=50034
 
 ## Installation Instructions
 
