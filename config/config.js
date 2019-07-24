@@ -4,7 +4,7 @@ module.exports = {
   customTypes: [
     {
       key: 'eventId',
-      regex: /[456]\d{3}/
+      regex: /\b[456]\d{3}\b/
     }
   ],
   styles: ['./styles/windows.less'],
