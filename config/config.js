@@ -24,8 +24,16 @@ module.exports = {
       file: './templates/windows-summary.hbs'
     }
   },
+  request: {
+    cert: '',
+    key: '',
+    passphrase: '',
+    ca: '',
+    proxy: '',
+    rejectUnauthorized: true
+  },
   logging: {
-    level: 'debug'
+    level: 'info' //trace, debug, info, warn, error, fatal
   },
   options: []
 };
