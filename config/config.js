@@ -7,6 +7,7 @@ module.exports = {
       regex: /\b[456]\d{3}\b/
     }
   ],
+  defaultColor: 'light-gray',
   styles: ['./styles/windows.less'],
   block: {
     component: {

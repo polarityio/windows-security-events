@@ -7,9 +7,8 @@
       "regex": "\\b[456]\\d{3}\\b"
     }
   ],
-  "styles": [
-    "./styles/windows.less"
-  ],
+  "defaultColor": "light-gray",
+  "styles": ["./styles/windows.less"],
   "block": {
     "component": {
       "file": "./components/windows-block.js"
