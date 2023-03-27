@@ -1,4 +1,5 @@
 {
+  "polarityIntegrationUuid": "ce4e0180-cce1-11ed-aeee-075d3490155d",
   "name": "Windows Security Events",
   "acronym": "WIN",
   "customTypes": [
