@@ -1,0 +1,7 @@
+{
+  "category": "Logon/Logoff",
+  "subcategory": "Logon",
+  "eventId": "4624",
+  "messageSummary": "An account was successfully logged on. This event is generated when a logon session is created. It is generated on the computer that was accessed.",
+  "minimumOperatingSystemRequirement": "Windows Vista, Windows Server 2008"
+}

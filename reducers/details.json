@@ -1,0 +1,26 @@
+{
+  "root": {
+    "path": "",
+    "on_null": "return_empty"
+  },
+  "pipeline": [
+    {
+      "op": "copy",
+      "from": "eventId",
+      "to": "reduced_results.event_id"
+    },
+    {
+      "op": "copy",
+      "from": "messageSummary",
+      "to": "reduced_results.message_summary"
+    },
+    {
+      "op": "prune",
+      "strategy": "empty_values",
+      "target": "reduced_results"
+    }
+  ],
+  "output": {
+    "result": "$working.reduced_results"
+  }
+}

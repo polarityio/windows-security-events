@@ -9,7 +9,9 @@
     }
   ],
   "defaultColor": "light-gray",
-  "styles": ["./styles/windows.less"],
+  "styles": [
+    "./styles/windows.less"
+  ],
   "block": {
     "component": {
       "file": "./components/windows-block.js"
@@ -37,5 +39,10 @@
     "level": "info"
   },
   "options": [],
-  "entityTypes": []
+  "entityTypes": [],
+  "reducer": {
+    "details": {
+      "file": "./reducers/details.json"
+    }
+  }
 }

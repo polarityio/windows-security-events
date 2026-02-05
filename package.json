@@ -1,6 +1,6 @@
 {
   "name": "WindowsSecurityEvents",
-  "version": "3.1.5",
+  "version": "3.1.6",
   "main": "./integration.js",
   "description": "Returns information on Windows Security Audit Events",
   "private": true,
