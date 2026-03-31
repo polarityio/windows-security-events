@@ -5,6 +5,6 @@
   "description": "Returns information on Windows Security Audit Events",
   "private": true,
   "dependencies": {
-    "papaparse": "^5.0.0"
+    "papaparse": "^5.4.1"
   }
 }
